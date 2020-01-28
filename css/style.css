@@ -17,6 +17,10 @@ header, footer {
     height: 100px;
 }
 
+footer {
+    text-align: center;
+}
+
 .sidebar-right {
     background-color: navy;
     color: cornsilk;
